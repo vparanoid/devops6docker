@@ -1,6 +1,6 @@
 ### DevOps6 Docker
 
-Dockercompose создает и запускает nginx.
+Docker создает образ nginx.
 Копирует внутрь конфиг.
 Копирует внутрь тестовый индекс html.
 Nginx слушает на порту TCP:80, выдает текст "DevOps course 2021".
